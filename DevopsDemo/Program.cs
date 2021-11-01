@@ -11,8 +11,8 @@ namespace DevopsDemo
             Console.WriteLine("Commiting from github");
             Console.WriteLine(" 2 Commit");
             Console.WriteLine("Merge conflict from github");
-            
-            
+            Console.WriteLine("New bbranch");
+           
         }
     }
 }
