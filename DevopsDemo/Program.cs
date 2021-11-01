@@ -8,6 +8,7 @@ namespace DevopsDemo
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Commit");
+            Console.WriteLine("Commitingfrom github");
         }
     }
 }
