@@ -10,6 +10,7 @@ namespace DevopsDemo
             Console.WriteLine("Commit");
             Console.WriteLine("Commiting from github");
             Console.WriteLine(" 2 Commit");
+            Console.WriteLine("Merge conflict from vs");
             
             
         }
